@@ -5,6 +5,7 @@ My homework and projects for [DataTalksClub's Machine Learning Zoomcamp](https:/
 | Module | Topic | Work |
 |---|---|---|
 | 04 | Evaluation metrics for classification | [homework.ipynb](04-evaluation/homework.ipynb) |
+| 05 | Deploying models: FastAPI + Docker | [05-deployment](05-deployment/) · [notes](05-deployment/NOTES.md) |
 
 ## Running the notebooks
 
